@@ -1,0 +1,46 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Lab data directories (keep directory structure via .gitkeep)
+labs/**/data/*
+!labs/**/data/.gitkeep
+
+# Large structural and genomics output files
+*.cif
+*.pdb
+*.pse
+*.vcf
+*.vcf.gz
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary directories
+tmp/
+scratch/
