@@ -1,0 +1,2 @@
+Notification: Foldseek terms and conditions apply. Please check the terms at https://search.foldseek.com/search and https://github.com/steineggerlab/foldseek.
+Acknowledged: 2026-10-05T23:28:35+02:00

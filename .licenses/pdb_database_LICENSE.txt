@@ -1,0 +1,2 @@
+Notification: RCSB PDB terms and conditions apply. Please check the terms at https://www.rcsb.org/pages/usage-policy.
+Acknowledged: 2026-10-05T23:28:46+02:00

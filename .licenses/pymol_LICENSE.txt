@@ -1,0 +1,2 @@
+Notification: PyMOL terms and conditions apply. Please check the license at https://www.pymol.org/.
+Acknowledged: 2026-10-05T23:33:45+02:00
