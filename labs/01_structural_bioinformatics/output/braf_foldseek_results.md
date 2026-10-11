@@ -1,12 +1,12 @@
-[*] Submitting /home/sergiobermudez/local_projects/study-bio/data/alphafold_braf/AF-P15056-F1-model_v6.cif to Foldseek API...
+[*] Submitting /home/sergiobermudez/local_projects/study-bio/output/AF-P15056-F1-model_v6.cif to Foldseek API...
 [*] Searching databases: pdb100
 [*] Ticket ID generated: KehjYl0k_wnHl7sIjEEIPcZwrKKS0q5CRuqm7Q
 [*] Polling server for completion...
-.
+
 [*] Job marked as COMPLETE.
 [*] Fetching results (this might take a moment for large databases)...
 
-[*] Raw JSON results successfully saved to: /home/sergiobermudez/local_projects/study-bio/data/braf_foldseek_pdb100.json
+[*] Raw JSON results successfully saved to: /home/sergiobermudez/local_projects/study-bio/output/braf_foldseek_results.json
 
 ### All Structural Matches
 | Target ID | Q-Cov | Prob | E-value | Seq Identity | Aln Length |

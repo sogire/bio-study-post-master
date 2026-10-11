@@ -1,0 +1,4 @@
+Notification: Please check the UniBind database terms of use at https://unibind.uio.no/ and https://unibind.uio.no/api/overview.
+Timestamp: 2026-10-11T19:03:00+02:00
+Status: User notified and license terms acknowledged.
+

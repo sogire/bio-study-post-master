@@ -1,0 +1,4 @@
+Notification: Please check the Ensembl database terms of use at https://useast.ensembl.org/index.html and https://github.com/Ensembl/ensembl-rest/wiki.
+Timestamp: 2026-10-11T19:05:00+02:00
+Status: User notified and license terms acknowledged.
+

@@ -1,0 +1,4 @@
+Notification: Please check the ENCODE database terms of use and REST API usage policy at https://www.encodeproject.org/help/rest-api/
+Timestamp: 2026-10-11T18:42:14+02:00
+Notified User: Yes
+

@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "deepmind-science",
+      "date": "2026-10-11",
+      "path": "/home/sergiobermudez/local_projects/skills-hub/external",
+      "include_only": [
+        "deepmind-science"
+      ]
+    }
+  ]
+}

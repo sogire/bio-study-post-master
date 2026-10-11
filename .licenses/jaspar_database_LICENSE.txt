@@ -1,0 +1,4 @@
+Notification: Please check the JASPAR database terms of use at https://jaspar.elixir.no/ and https://jaspar.elixir.no/api/.
+Timestamp: 2026-10-11T19:03:00+02:00
+Status: User notified and license terms acknowledged.
+
