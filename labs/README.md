@@ -17,6 +17,8 @@ Each module directory contains a dedicated `lab_guide.md` with:
 - **Expected Scientific Outputs**: Key metrics and what they mean.
 - **Critical Discussion Questions**: To deepen your biological intuition.
 
+All completed exercise reports, scripts, and generated assets are stored in each module's `result_labs/` directory following the standardized conventions in [GUIDE.md](GUIDE.md).
+
 ---
 
 ## Modules Directory

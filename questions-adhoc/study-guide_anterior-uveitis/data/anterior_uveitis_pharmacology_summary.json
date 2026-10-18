@@ -1,0 +1,61 @@
+{
+  "disease": {
+    "mondo_id": "MONDO_0006651",
+    "non_infectious_mondo_id": "MONDO_0017634",
+    "efo_id": "EFO_1001259",
+    "name": "Anterior Uveitis / Non-Infectious Anterior Uveitis"
+  },
+  "open_targets_associations": [
+    {"symbol": "NR3C1", "ensembl_id": "ENSG00000113580", "uniprot_id": "P04150", "length_aa": 777, "score": 0.5921, "role": "Glucocorticoid receptor; master target of Prednisolone, Dexamethasone, Difluprednate, and Loteprednol"},
+    {"symbol": "ERAP1", "ensembl_id": "ENSG00000164307", "uniprot_id": "Q9NZ08", "length_aa": 941, "score": 0.4816, "role": "Endoplasmic reticulum aminopeptidase 1; epistatic peptide-trimming ruler with HLA-B27 and HLA-B*51"},
+    {"symbol": "IL23R", "ensembl_id": "ENSG00000162594", "uniprot_id": "Q5VWK5", "length_aa": 629, "score": 0.2889, "role": "Interleukin-23 receptor driving pathogenic Th17 / ILC3 / gamma-delta T-cell responses"},
+    {"symbol": "TNF", "ensembl_id": "ENSG00000232810", "uniprot_id": "P01375", "length_aa": 233, "score": 0.2669, "role": "Tumor necrosis factor; central cytokine driving blood-aqueous barrier breakdown; neutralized by Adalimumab and Infliximab"},
+    {"symbol": "JAK1", "ensembl_id": "ENSG00000162434", "uniprot_id": "P23458", "length_aa": 1154, "score": 0.2596, "role": "Tyrosine-protein kinase JAK1; targeted by Upadacitinib, Filgotinib, Tofacitinib, and topical VVN461"},
+    {"symbol": "JAK2", "ensembl_id": "ENSG00000096968", "uniprot_id": "O60674", "length_aa": 1132, "score": 0.2587, "role": "Tyrosine-protein kinase JAK2; targeted by Baricitinib and Tofacitinib"},
+    {"symbol": "DHFR", "ensembl_id": "ENSG00000228716", "uniprot_id": "P00374", "length_aa": 187, "score": 0.2587, "role": "Dihydrofolate reductase; inhibited by first-line systemic steroid-sparing antimetabolite Methotrexate"},
+    {"symbol": "PPP3CA", "ensembl_id": "ENSG00000138814", "uniprot_id": "Q08209", "length_aa": 521, "score": 0.2587, "role": "Calcineurin subunit A; inhibited by Cyclosporine and Tacrolimus"},
+    {"symbol": "HLA-B", "ensembl_id": "ENSG00000234745", "uniprot_id": "P01889", "length_aa": 362, "score": null, "role": "MHC Class I heavy chain (HLA-B*27:05/02/04 in AAU; HLA-B*51:01 in Behcet's disease)"},
+    {"symbol": "CHRM3", "ensembl_id": "ENSG00000133019", "uniprot_id": "P20309", "length_aa": 590, "score": null, "role": "Muscarinic acetylcholine receptor M3 on iris sphincter and ciliary muscle; antagonized by Cyclopentolate, Tropicamide, Homatropine, and Atropine"}
+  ],
+  "topical_corticosteroids": [
+    {"name": "Prednisolone Acetate", "chembl_id": "CHEMBL1152", "pubchem_cid": 5834, "formula": "C23H30O6", "mw": 402.49, "alogp": 2.13, "xlogp": 2.4, "tpsa": 100.90, "hbd": 2, "hba": 6, "rotatable_bonds": 4, "formulation": "1% micronized suspension (biphasic C21-acetate prodrug)"},
+    {"name": "Prednisolone", "chembl_id": "CHEMBL131", "pubchem_cid": 5755, "formula": "C21H28O5", "mw": 360.45, "alogp": 1.56, "xlogp": 1.6, "tpsa": 94.83, "hbd": 3, "hba": 5, "rotatable_bonds": 2, "nr3c1_ki_nm": 2.4, "nr3c1_pchembl": 8.62},
+    {"name": "Prednisolone Sodium Phosphate", "chembl_id": "CHEMBL1201014", "pubchem_cid": null, "formula": "C21H27Na2O8P", "mw": 484.39, "alogp": 1.67, "tpsa": 141.36, "hbd": 4, "hba": 6, "rotatable_bonds": 4, "formulation": "1% aqueous solution"},
+    {"name": "Dexamethasone", "chembl_id": "CHEMBL384467", "pubchem_cid": 5743, "formula": "C22H29FO5", "mw": 392.47, "alogp": 1.90, "xlogp": 1.9, "tpsa": 94.83, "hbd": 3, "hba": 6, "rotatable_bonds": 2, "nr3c1_ki_nm": 5.5, "nr3c1_ic50_nm": 0.9},
+    {"name": "Difluprednate", "chembl_id": "CHEMBL1201749", "pubchem_cid": null, "formula": "C27H34F2O7", "mw": 508.56, "alogp": 3.52, "tpsa": 106.97, "hbd": 1, "hba": 7, "rotatable_bonds": 6, "formulation": "0.05% lipid emulsion"},
+    {"name": "Loteprednol Etabonate", "chembl_id": "CHEMBL1200865", "pubchem_cid": null, "formula": "C24H31ClO7", "mw": 466.96, "alogp": 3.92, "tpsa": 99.13, "hbd": 1, "hba": 7, "rotatable_bonds": 6, "formulation": "0.5% / 1% soft steroid suspension/gel"}
+  ],
+  "topical_antimuscarinics": [
+    {"name": "Cyclopentolate", "chembl_id": "CHEMBL1201338", "hcl_chembl_id": "CHEMBL1200473", "pubchem_cid": 2905, "formula": "C17H25NO3", "mw_base": 291.39, "mw_hcl": 327.85, "xlogp": 2.7, "alogp": 2.18, "tpsa": 49.77, "hbd": 1, "hba": 4, "rotatable_bonds": 7, "onset_min": "15-60", "recovery": "~24 hours"},
+    {"name": "Tropicamide", "chembl_id": "CHEMBL1200604", "pubchem_cid": 5593, "formula": "C17H20N2O2", "mw_base": 284.36, "xlogp": 1.5, "alogp": 1.54, "tpsa": 53.43, "hbd": 1, "hba": 3, "rotatable_bonds": 6, "onset_min": "15-30", "recovery": "4-6 hours"},
+    {"name": "Homatropine", "chembl_id": "CHEMBL1618018", "pubchem_cid": 5282593, "formula": "C16H21NO3", "mw_base": 275.35, "xlogp": 1.9, "alogp": 1.78, "tpsa": 49.77, "hbd": 1, "hba": 4, "rotatable_bonds": 4, "onset_min": "30-60", "recovery": "1-3 days"},
+    {"name": "Atropine", "chembl_id": "CHEMBL1331", "pubchem_cid": 174174, "formula": "C17H23NO3", "mw_base": 289.38, "xlogp": 1.8, "alogp": 1.83, "tpsa": 49.77, "hbd": 1, "hba": 4, "rotatable_bonds": 4, "onset_min": "30-180", "recovery": "7-14 days"}
+  ],
+  "structural_measurements_angstroms": {
+    "1M2Z_NR3C1_DEX": {
+      "O1_to_Gln570_NE2": 3.06,
+      "O1_to_Arg611_NH2": 3.17,
+      "O2_to_Asn564_OD1": 3.04,
+      "O3_to_Gln642_OE1": 2.98,
+      "O5_to_Asn564_ND2": 3.34
+    },
+    "4U15_CHRM3_antagonist": {
+      "cationic_N_to_Asp147_OD": 2.85,
+      "cationic_N_to_Tyr529_cz": 3.99,
+      "O29_to_Asn507_ND2": 2.66,
+      "O29_to_Asn507_OD1": 2.80,
+      "O33_to_Asn507_OD1": 2.86
+    },
+    "3WD5_TNF_Adalimumab": {
+      "TNF_Lys65_O_to_VL_Arg30_NH2": 2.34,
+      "TNF_Lys65_NZ_to_VL_Asn92_O": 2.48,
+      "TNF_Gln67_OE1_to_VL_Tyr91_OH": 2.58,
+      "TNF_Gln67_NE2_to_VL_Asn31_OD1": 3.00,
+      "TNF_Glu146_OE1_to_VH_Ser103_OG": 2.66,
+      "TNF_Ala145_O_to_VH_His57_NE2": 3.05,
+      "TNF_Ser147_OG_to_VH_His57_ND1": 3.14,
+      "TNF_Pro20_O_to_VL_Arg93_NE": 3.04
+    }
+  }
+}
+

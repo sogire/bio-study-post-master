@@ -1,0 +1,103 @@
+{
+  "target_uniprot_id": "P35498",
+  "entry_id": "AF-P35498-F1",
+  "model_version": "v6",
+  "sequence_length": 2009,
+  "global_metrics": {
+    "mean_plddt": 68.5,
+    "plddt_distribution_pct": {
+      "very_high_ge_90": 16.3,
+      "confident_70_to_90": 45.2,
+      "low_50_to_70": 13.0,
+      "very_low_lt_50": 25.5
+    },
+    "mean_global_pae_angstrom": 19.86,
+    "max_pae_angstrom": 31.75,
+    "cryoem_7dtd_superposition": {
+      "pdb_id": "7DTD",
+      "chain": "A",
+      "aligned_ca_atoms": 932,
+      "rmsd_angstrom": 1.035
+    }
+  },
+  "domain_pae_and_plddt_summary": [
+    {
+      "region": "N-Terminus",
+      "residue_range": "1-109",
+      "mean_plddt": 70.1,
+      "intra_domain_mean_pae_angstrom": 5.4,
+      "structural_state": "Partially folded cytoplasmic domain (disordered 28-60)"
+    },
+    {
+      "region": "Domain I (DI)",
+      "residue_range": "110-454",
+      "mean_plddt": 80.3,
+      "intra_domain_mean_pae_angstrom": 4.2,
+      "structural_state": "Rigid transmembrane core (VSD-I 129-235, Pore-I 246-423, Asp382)"
+    },
+    {
+      "region": "DI-DII Cytoplasmic Linker",
+      "residue_range": "455-749",
+      "mean_plddt": 34.7,
+      "intra_domain_mean_pae_angstrom": 26.8,
+      "structural_state": "Intrinsically disordered regulatory loop (PKA phosphorylation sites)"
+    },
+    {
+      "region": "Domain II (DII)",
+      "residue_range": "750-1022",
+      "mean_plddt": 81.0,
+      "intra_domain_mean_pae_angstrom": 3.9,
+      "structural_state": "Rigid transmembrane core (VSD-II 769-874, Pore-II 892-992, Glu951)"
+    },
+    {
+      "region": "DII-DIII Cytoplasmic Linker",
+      "residue_range": "1023-1199",
+      "mean_plddt": 39.2,
+      "intra_domain_mean_pae_angstrom": 25.4,
+      "structural_state": "Intrinsically disordered loop harboring Ankyrin-G (ANK3) AIS-binding motif"
+    },
+    {
+      "region": "Domain III (DIII)",
+      "residue_range": "1200-1483",
+      "mean_plddt": 86.7,
+      "intra_domain_mean_pae_angstrom": 3.5,
+      "structural_state": "Rigid transmembrane core (VSD-III 1219-1332, Pore-III 1346-1483, Lys1432)"
+    },
+    {
+      "region": "DIII-DIV Fast Inactivation Gate",
+      "residue_range": "1484-1541",
+      "mean_plddt": 71.8,
+      "intra_domain_mean_pae_angstrom": 6.1,
+      "structural_state": "Structured intracellular latch containing IFM motif (Ile1498-Phe1499-Met1500)"
+    },
+    {
+      "region": "Domain IV (DIV)",
+      "residue_range": "1542-1788",
+      "mean_plddt": 83.9,
+      "intra_domain_mean_pae_angstrom": 3.7,
+      "structural_state": "Rigid transmembrane core (VSD-IV 1542-1655, Pore-IV 1666-1788, Ala1724)"
+    },
+    {
+      "region": "C-Terminal Core & IQ Domain",
+      "residue_range": "1789-1944",
+      "mean_plddt": 73.2,
+      "intra_domain_mean_pae_angstrom": 6.8,
+      "structural_state": "Folded cytoplasmic EF-hand-like domain + Calmodulin IQ motif (1915-1944)"
+    },
+    {
+      "region": "C-Terminal Tail",
+      "residue_range": "1945-2009",
+      "mean_plddt": 32.1,
+      "intra_domain_mean_pae_angstrom": 28.1,
+      "structural_state": "Intrinsically disordered tail containing NEDD4L PPxY motif"
+    }
+  ],
+  "inter_domain_transmembrane_core_pae_angstrom": {
+    "DI_to_DII": 5.8,
+    "DII_to_DIII": 5.5,
+    "DIII_to_DIV": 4.9,
+    "DI_to_DIV": 5.2,
+    "interpretation": "The four homologous transmembrane domains (DI-DIV) pack into a cohesive pseudotetrameric core (inter-domain PAE 4.9-5.8 A), whereas the high global mean PAE (19.86 A) is driven by the flexible DI-DII (455-749) and DII-DIII (1023-1199) cytoplasmic linkers."
+  }
+}
+

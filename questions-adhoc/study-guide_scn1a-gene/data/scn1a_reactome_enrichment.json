@@ -1,0 +1,131 @@
+{
+  "query_gene_set": [
+    "SCN1A",
+    "SCN1B",
+    "SCN2B",
+    "SCN3B",
+    "SCN4B",
+    "ANK3",
+    "SPTBN4",
+    "SPTAN1",
+    "NFASC",
+    "NRCAM",
+    "L1CAM",
+    "FGF12",
+    "FGF13",
+    "FGF14",
+    "CALM1",
+    "CALM2",
+    "CALM3",
+    "PRKACA",
+    "PRKACB",
+    "PRKACG",
+    "NEDD4L"
+  ],
+  "reactome_physical_entity": {
+    "uniprot_id": "P35498",
+    "reactome_id": "R-HSA-443378",
+    "name": "SCN1A [plasma membrane]"
+  },
+  "enriched_pathways": [
+    {
+      "stId": "R-HSA-445095",
+      "name": "Interaction between L1 and Ankyrins",
+      "top_level_pathway": "Developmental Biology -> Axon guidance (R-HSA-422475)",
+      "entities_found": 11,
+      "entities_total": 33,
+      "reactions_found": 4,
+      "reactions_total": 4,
+      "p_value": 1.11e-16,
+      "fdr": 3.16e-14
+    },
+    {
+      "stId": "R-HSA-5576892",
+      "name": "Phase 0 - rapid depolarisation",
+      "top_level_pathway": "Muscle contraction -> Cardiac conduction (R-HSA-5576891)",
+      "entities_found": 9,
+      "entities_total": 38,
+      "reactions_found": 1,
+      "reactions_total": 2,
+      "p_value": 8.44e-15,
+      "fdr": 1.2e-12
+    },
+    {
+      "stId": "R-HSA-373760",
+      "name": "L1CAM interactions",
+      "top_level_pathway": "Developmental Biology -> Nervous system development (R-HSA-9675108)",
+      "entities_found": 11,
+      "entities_total": 130,
+      "reactions_found": 43,
+      "reactions_total": 54,
+      "p_value": 4.81e-13,
+      "fdr": 4.56e-11
+    },
+    {
+      "stId": "R-HSA-5576891",
+      "name": "Cardiac conduction",
+      "top_level_pathway": "Muscle contraction (R-HSA-397014)",
+      "entities_found": 10,
+      "entities_total": 147,
+      "reactions_found": 5,
+      "reactions_total": 44,
+      "p_value": 1.0e-10,
+      "fdr": 3.56e-09
+    },
+    {
+      "stId": "R-HSA-422475",
+      "name": "Axon guidance",
+      "top_level_pathway": "Developmental Biology (R-HSA-1266738)",
+      "entities_found": 13,
+      "entities_total": 566,
+      "reactions_found": 56,
+      "reactions_total": 295,
+      "p_value": 5.8e-08,
+      "fdr": 1.18e-06
+    }
+  ],
+  "curated_complexes": [
+    {
+      "stId": "R-HSA-443637",
+      "name": "SCNAs [plasma membrane]",
+      "class": "CandidateSet",
+      "description": "Pore-forming voltage-gated Na+ channel alpha-subunits (SCN1A-SCN11A)"
+    },
+    {
+      "stId": "R-HSA-443632",
+      "name": "SCNAs:SCNBs [plasma membrane]",
+      "class": "Complex",
+      "description": "Heteromultimeric holochannel complex combining SCN1A with auxiliary beta1-beta4 subunits (SCN1B-SCN4B)"
+    },
+    {
+      "stId": "R-HSA-443633",
+      "name": "KCNQ2,3, SCNAs:SCNBs [plasma membrane]",
+      "class": "DefinedSet",
+      "description": "Co-clustered NaV1.1 and Kv7.2/Kv7.3 (KCNQ2/KCNQ3) channels sharing the conserved Ankyrin-G binding motif ([V/I]PIAxxESD)"
+    },
+    {
+      "stId": "R-HSA-373687",
+      "name": "NFASC:NRCAM:ANK1-3:SPTA:SPTB:F-actin:KCNQ2,3, SCNAs:SCNBs [plasma membrane]",
+      "class": "Complex",
+      "description": "Complete 31-component Axon Initial Segment / Node of Ranvier macromolecular super-complex"
+    },
+    {
+      "stId": "R-HSA-9612560",
+      "name": "Class I antiarrhythmics:SCNAs:SCNBs [plasma membrane]",
+      "class": "Complex",
+      "description": "Pharmacological pore-block complex with phenytoin, mexiletine, lidocaine, flecainide, propafenone, quinidine, procainamide, disopyramide, and tocainide"
+    }
+  ],
+  "string_network_summary": {
+    "taxon_id": 9606,
+    "query_protein": "9606.ENSP00000303540",
+    "node_count": 21,
+    "observed_edges": 97,
+    "expected_edges": 12,
+    "fold_enrichment": 8.08,
+    "average_node_degree": 9.24,
+    "local_clustering_coefficient": 0.777,
+    "ppi_enrichment_p_value": 0.0
+  }
+}
+

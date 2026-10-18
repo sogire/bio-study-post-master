@@ -43,7 +43,7 @@ As the computational biology lead, your goal is to determine:
 ---
 
 ## Final Deliverable & Report Structure
-Synthesize your findings into a scientific brief in `labs/capstones/cad_pcsk9_report.md` addressing:
+Synthesize your findings into a scientific brief in `labs/capstones/result_labs/capstone_1/result_capstone_1.md` addressing:
 1. **Genetic & Regulatory Mechanism**: How the variant modulates target expression.
 2. **Biological Function**: Role in hepatic LDL receptor degradation and circulating cholesterol.
 3. **Structural & Pharmacological Translation**: Why monoclonal antibodies succeeded while small molecules proved challenging.
