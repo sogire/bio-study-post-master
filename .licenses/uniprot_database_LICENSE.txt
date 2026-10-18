@@ -1,0 +1,2 @@
+User was notified to check https://www.uniprot.org/help/license for licensing terms and https://www.uniprot.org/help/api_queries for terms of use.
+

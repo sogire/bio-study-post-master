@@ -1,0 +1,4 @@
+Notified user to check the Human Protein Atlas (HPA) license terms at:
+- https://www.proteinatlas.org/about/licence
+Timestamp: 2026-10-18T12:01:35+02:00
+

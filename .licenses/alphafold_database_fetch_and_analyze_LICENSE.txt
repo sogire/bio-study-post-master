@@ -1,2 +1,1 @@
-Notification: AlphaFold Database terms and conditions apply. Please check the terms of use at https://alphafold.ebi.ac.uk/.
-Acknowledged: 2026-10-05T23:16:15+02:00
+User was notified to check https://alphafold.ebi.ac.uk/ for licensing terms and terms of use.

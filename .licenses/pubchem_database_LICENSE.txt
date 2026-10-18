@@ -1,0 +1,2 @@
+This skill accesses data from PubChem (https://pubchem.ncbi.nlm.nih.gov/), which is in the public domain and subject to the NCBI Website and Data Usage Policies and Disclaimers (https://www.ncbi.nlm.nih.gov/home/about/policies/).
+

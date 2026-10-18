@@ -1,0 +1,2 @@
+Before using any content from the UCSC Genome Browser, the user must check https://genome.ucsc.edu/conditions.html and https://genome.ucsc.edu/goldenPath/help/api.html to understand the license and limitations around the content in the UCSC Genome Browser.
+

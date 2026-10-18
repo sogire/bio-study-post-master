@@ -1,0 +1,2 @@
+Before using any content from the STRING Database, the user must check https://string-db.org/cgi/access to understand the license and limitations around the content in the STRING Database.
+

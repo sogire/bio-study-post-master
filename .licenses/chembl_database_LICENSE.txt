@@ -1,0 +1,4 @@
+Notified user to check the ChEMBL terms of use and license at:
+- https://chembl.gitbook.io/chembl-interface-documentation/about
+Timestamp: 2026-10-18T12:12:55+02:00
+

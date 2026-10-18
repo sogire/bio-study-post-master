@@ -1,0 +1,2 @@
+Before using any content from Reactome, the user must check https://reactome.org/license and https://reactome.org/cite to understand the license and limitations around the content in Reactome.
+

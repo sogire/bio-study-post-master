@@ -1,0 +1,4 @@
+Notified user to check the Open Targets Platform license terms at:
+- https://platform-docs.opentargets.org/licence
+Timestamp: 2026-10-18T12:12:55+02:00
+

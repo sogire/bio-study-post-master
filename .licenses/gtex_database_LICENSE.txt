@@ -1,0 +1,5 @@
+Notified user to check the GTEx Portal terms of use and license at:
+- https://gtexportal.org/home/license
+- https://gtexportal.org/home/documentationPage#gtexApi
+Timestamp: 2026-10-18T12:01:35+02:00
+
